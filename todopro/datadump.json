@@ -1,0 +1,980 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$9qDkSdaYTsFC$0vWB6DnYeJ1/eeF3p0RtAvu/nLyr5z5R1SdllDnyFDk=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "test",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-05-30T15:42:24.946Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$cg2P4Maz9mOe$fKF60KFf65laI5AQpetqeIDoxu4RPW0MxGiEIrS+XUE=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "lava",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-05-30T15:42:47.491Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$X57yvcUgURRI$oLAYdDHAGJ7ZfYY5XKVb5FDWVBPuNCwlb0EpztWhZ70=",
+        "last_login": "2020-06-11T10:04:45.816Z",
+        "is_superuser": true,
+        "username": "jega",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-05-30T15:47:26.387Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$YHyo2jjoHuaX$tn8jsEXmv3jLWy38rRMN6CmibuGLkSeAGxWtRILznG0=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "hansi",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-05-31T07:17:50.895Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$uCsGnB7P4kj0$9yzSnMlpSIRjw47oSMsRHp9IxIcL7nzUe/oKmVtDvrw=",
+        "last_login": null,
+        "is_superuser": false,
+        "username": "lak",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-05-31T07:24:32.902Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$d9ut0EmZCaZY$i1XE8wD9c5LsBMCpeeYRCT+Sqd0NiWdvsKTmnIYuJpg=",
+        "last_login": "2020-05-31T07:28:19.976Z",
+        "is_superuser": false,
+        "username": "nila",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-05-31T07:28:19.522Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$TsVZV53PPBZA$ghLVZ5zOM6WzScGGlht8o23yey1nwkRUTkRsg3oIjuc=",
+        "last_login": "2020-05-31T07:30:17.531Z",
+        "is_superuser": false,
+        "username": "mouse",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-05-31T07:30:15.966Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$p76WZBwQPnYw$SvW91qA8OYtmovRNQ5NRo+IgwXtQwpBjP+nMVXHqLyU=",
+        "last_login": "2020-05-31T12:39:33.508Z",
+        "is_superuser": false,
+        "username": "mobile",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-05-31T12:39:32.563Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$y4RtcJXerDvh$wwXoi0iX+nbTg/JHeKayQ6JcAuBsoHksmpQ+6GtZRIo=",
+        "last_login": "2020-06-01T15:58:30.082Z",
+        "is_superuser": false,
+        "username": "bommu",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-06-01T15:44:05.030Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$p2N4qFsoylyf$VXrWMWYJMC2t8zBe8npJe/er9t+RBpjwTBtPUDAvWv8=",
+        "last_login": "2020-06-01T16:01:27.051Z",
+        "is_superuser": false,
+        "username": "hero",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-06-01T16:01:25.794Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$r2lEzrdIR5LX$BNyZehJ9y6ZWk1Qj2n2ZsX378qGs6TTDHB+RwwvFckg=",
+        "last_login": "2020-06-02T14:25:21.430Z",
+        "is_superuser": false,
+        "username": "tharani",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-06-02T14:25:20.790Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$cXcU3hq1E9I6$H9kV+bBLq9U3q7fvaysJlrU87vjP1Ezobyq2+ZR8OIg=",
+        "last_login": null,
+        "is_superuser": true,
+        "username": "waran",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2020-06-02T15:22:31.793Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$MHMIpgxBebwv$sK1WdtSCDnJCiK7fk1L6xGYAsaLSj6sq3DOuD3xux4c=",
+        "last_login": "2020-06-03T11:59:26.424Z",
+        "is_superuser": false,
+        "username": "ponds",
+        "first_name": "",
+        "last_name": "",
+        "email": "ponds@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-06-03T11:59:24.493Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$doHwt9dC4eok$KCm2WuUf6vC+PbMI2TVqEiTl3I0Bc1UdrLe+7tG9OSg=",
+        "last_login": "2020-06-03T12:05:46.974Z",
+        "is_superuser": false,
+        "username": "dove",
+        "first_name": "firstdove",
+        "last_name": "lastdove",
+        "email": "dove@gmail.com",
+        "is_staff": false,
+        "is_active": true,
+        "date_joined": "2020-06-03T12:05:46.031Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "4eft16iygqrmp9w6m1iohmuoqfnjtcqg",
+    "fields": {
+        "session_data": "MzBhODBhZmRmNzRiYTZiMDQxMmU0YTc5MjA2ZmVmNWZlODhkNjIwOTp7Il9hdXRoX3VzZXJfaWQiOiIzIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1MjI2MTg2NmFkODk3NmFjM2MxOTQ3M2Q5ZWJiZWIzODU0N2UwMmVhIn0=",
+        "expire_date": "2020-06-25T10:04:45.883Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "93g4lojusnrmx5suxwkla4x2shdpetpa",
+    "fields": {
+        "session_data": "MzBhODBhZmRmNzRiYTZiMDQxMmU0YTc5MjA2ZmVmNWZlODhkNjIwOTp7Il9hdXRoX3VzZXJfaWQiOiIzIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1MjI2MTg2NmFkODk3NmFjM2MxOTQ3M2Q5ZWJiZWIzODU0N2UwMmVhIn0=",
+        "expire_date": "2020-06-15T18:03:34.223Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "9zeyuanjhg9mdyu9lojx3ilb78ypd3ah",
+    "fields": {
+        "session_data": "MzBhODBhZmRmNzRiYTZiMDQxMmU0YTc5MjA2ZmVmNWZlODhkNjIwOTp7Il9hdXRoX3VzZXJfaWQiOiIzIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1MjI2MTg2NmFkODk3NmFjM2MxOTQ3M2Q5ZWJiZWIzODU0N2UwMmVhIn0=",
+        "expire_date": "2020-06-18T14:16:03.042Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "cah3blmgruy6l5zvtdgte5azgw42n5f0",
+    "fields": {
+        "session_data": "MzBhODBhZmRmNzRiYTZiMDQxMmU0YTc5MjA2ZmVmNWZlODhkNjIwOTp7Il9hdXRoX3VzZXJfaWQiOiIzIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1MjI2MTg2NmFkODk3NmFjM2MxOTQ3M2Q5ZWJiZWIzODU0N2UwMmVhIn0=",
+        "expire_date": "2020-06-17T14:10:17.096Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "gdvg3duuifh1er62fna0ug19xp3vtmm1",
+    "fields": {
+        "session_data": "MzBhODBhZmRmNzRiYTZiMDQxMmU0YTc5MjA2ZmVmNWZlODhkNjIwOTp7Il9hdXRoX3VzZXJfaWQiOiIzIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1MjI2MTg2NmFkODk3NmFjM2MxOTQ3M2Q5ZWJiZWIzODU0N2UwMmVhIn0=",
+        "expire_date": "2020-06-19T06:07:48.403Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "jl7lv70jxtpwcbz0vnplhp73qlt7wr4g",
+    "fields": {
+        "session_data": "OTU4YzVlZDMwY2IzOWQ0OTc5ZTE4ZmJlYTA3OWQ5NWQ2MGRiYzdhNzp7Il9hdXRoX3VzZXJfaWQiOiI3IiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI5Yzk3ZjJjNDQxZjYxNWUxYTZiODU4ZmRmNWI3ZTRhMDA1ZjMzOGRiIn0=",
+        "expire_date": "2020-06-14T07:30:17.890Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "lrn52mjkfn3n5se593olzgae472w9c0w",
+    "fields": {
+        "session_data": "MzBhODBhZmRmNzRiYTZiMDQxMmU0YTc5MjA2ZmVmNWZlODhkNjIwOTp7Il9hdXRoX3VzZXJfaWQiOiIzIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiI1MjI2MTg2NmFkODk3NmFjM2MxOTQ3M2Q5ZWJiZWIzODU0N2UwMmVhIn0=",
+        "expire_date": "2020-06-20T07:18:19.630Z"
+    }
+},
+{
+    "model": "todoapp.todo",
+    "pk": 12,
+    "fields": {
+        "title": "second todo",
+        "memo": "second todo",
+        "created": "2020-06-01T16:08:16.077Z",
+        "datecompleted": null,
+        "important": true,
+        "user": [
+            "hero"
+        ]
+    }
+},
+{
+    "model": "todoapp.todo",
+    "pk": 16,
+    "fields": {
+        "title": "iappli batch checking",
+        "memo": "iappli batch is getting oci8 error",
+        "created": "2020-06-02T13:33:14.881Z",
+        "datecompleted": "2020-06-04T08:46:42.325Z",
+        "important": false,
+        "user": [
+            "jega"
+        ]
+    }
+},
+{
+    "model": "todoapp.todo",
+    "pk": 17,
+    "fields": {
+        "title": "whats role update analysis",
+        "memo": "whats role update analysis",
+        "created": "2020-06-02T14:10:12.905Z",
+        "datecompleted": "2020-06-04T14:17:30.977Z",
+        "important": true,
+        "user": [
+            "jega"
+        ]
+    }
+},
+{
+    "model": "todoapp.todo",
+    "pk": 18,
+    "fields": {
+        "title": "test todo",
+        "memo": "test todo",
+        "created": "2020-06-02T14:23:11.088Z",
+        "datecompleted": "2020-06-02T14:23:17.432Z",
+        "important": false,
+        "user": [
+            "jega"
+        ]
+    }
+},
+{
+    "model": "todoapp.todo",
+    "pk": 19,
+    "fields": {
+        "title": "test",
+        "memo": "test",
+        "created": "2020-06-03T14:00:21.563Z",
+        "datecompleted": "2020-06-04T14:17:34.509Z",
+        "important": true,
+        "user": [
+            "jega"
+        ]
+    }
+},
+{
+    "model": "todoapp.todo",
+    "pk": 20,
+    "fields": {
+        "title": "third blog",
+        "memo": "tfff",
+        "created": "2020-06-04T14:17:47.577Z",
+        "datecompleted": "2020-06-04T14:17:59.880Z",
+        "important": true,
+        "user": [
+            "jega"
+        ]
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 1,
+    "fields": {
+        "name": "Steve Jobs",
+        "title": "Apple founder",
+        "description": "Steve Jobs",
+        "image": "userdetailapp/images/apple_steve.jpg",
+        "url": "https://www.apple.com/"
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 2,
+    "fields": {
+        "name": "Bill Gates",
+        "title": "Microsoft Legend",
+        "description": "he is the founder of Microsoft",
+        "image": "userdetailapp/images/windows_billgates.jpg",
+        "url": "https://www.microsoft.com/en-in"
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 3,
+    "fields": {
+        "name": "Sundar Pitchai",
+        "title": "Alphabet & Google",
+        "description": "he is the ceo of Alphabet , the parent company of google",
+        "image": "userdetailapp/images/google_sundar.jpg",
+        "url": "https://www.google.com/"
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 4,
+    "fields": {
+        "name": "Mark zuckerberg",
+        "title": "Facebook",
+        "description": "Founder of facebook",
+        "image": "userdetailapp/images/facebook_mark.jpg",
+        "url": "https://www.facebook.com/"
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 5,
+    "fields": {
+        "name": "Jeff Bezos",
+        "title": "Amazon CEO",
+        "description": "He is the CEO of Amazon",
+        "image": "userdetailapp/images/amazon_jeff.jpg",
+        "url": "https://www.amazon.in/"
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 6,
+    "fields": {
+        "name": "Jeff weiner",
+        "title": "LinkedIn CEO",
+        "description": "He resigned recently",
+        "image": "userdetailapp/images/linkedin_jeffweiner.jpg",
+        "url": "https://www.linkedin.com/"
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 7,
+    "fields": {
+        "name": "Elon Musk",
+        "title": "Multi talented guy",
+        "description": "he is owning more tech companies",
+        "image": "userdetailapp/images/elon-musk-companies.jpg",
+        "url": "https://elonmusknews.org/"
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 8,
+    "fields": {
+        "name": "Evan spiegel",
+        "title": "Snap chat CEO guy",
+        "description": "Techie guy",
+        "image": "userdetailapp/images/snapchat_evanspie.jpg",
+        "url": "https://www.snapchat.com/l/en-gb/"
+    }
+},
+{
+    "model": "userdetailapp.project",
+    "pk": 9,
+    "fields": {
+        "name": "Jack Dorsey",
+        "title": "Twitter CEO",
+        "description": "Good guy",
+        "image": "userdetailapp/images/twitter_jackDorsey.jpg",
+        "url": "https://twitter.com/explore"
+    }
+},
+{
+    "model": "consumer.consumerprofile",
+    "pk": 1,
+    "fields": {
+        "user": [
+            "jega"
+        ],
+        "phoneno": "9944352587",
+        "address": "kgisl campus, thudiyalur road\r\nsaravanampatti",
+        "occupation": "Software IT",
+        "url": "https://www.jegatheespython.pythonanywhere.com",
+        "image": "consumer/images/1_T_pC3-Is47lztWPspLvR9Q.jpeg",
+        "created_date": "2020-06-05T06:15:39.275Z"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2020-06-01T08:00:59.258Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "1",
+        "object_repr": "Todo object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2020-06-01T08:02:20.364Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "1",
+        "object_repr": "walk the dog",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Importent\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2020-06-01T09:43:47.631Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "2",
+        "object_repr": "lava todo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Datecompleted\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2020-06-01T09:48:41.117Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "3",
+        "object_repr": "second todo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Importent\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2020-06-01T09:54:01.035Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "3",
+        "object_repr": "second todo",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Memo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2020-06-01T15:53:53.836Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "1",
+        "object_repr": "walk the dog",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2020-06-01T15:54:20.832Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "9",
+        "object_repr": "test",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"User\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2020-06-02T15:24:00.171Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "11",
+        "object_repr": "hero todo",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2020-06-02T15:24:00.282Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "10",
+        "object_repr": "third bommu",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2020-06-02T15:24:00.383Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "9",
+        "object_repr": "test",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2020-06-02T15:24:00.791Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "todoapp",
+            "todo"
+        ],
+        "object_id": "1",
+        "object_repr": "walk the dog",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2020-06-02T15:26:45.924Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userprofile",
+            "userprofile"
+        ],
+        "object_id": "1",
+        "object_repr": "Jegatheeswaran",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2020-06-02T15:26:50.235Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userprofile",
+            "userprofile"
+        ],
+        "object_id": "1",
+        "object_repr": "Jegatheeswaran",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2020-06-02T18:40:17.911Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userprofile",
+            "userprofile"
+        ],
+        "object_id": "1",
+        "object_repr": "Jegatheeswaran",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2020-06-03T11:12:50.158Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userprofile",
+            "userprofile"
+        ],
+        "object_id": "2",
+        "object_repr": "test the place",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2020-06-03T16:55:20.318Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "Project object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2020-06-03T17:03:44.568Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "Apple founder",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2020-06-03T17:11:39.386Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "Microsoft Legend",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2020-06-03T17:13:25.901Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Alphabet & Google",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2020-06-03T17:14:41.225Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "4",
+        "object_repr": "Facebook",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2020-06-03T17:16:26.702Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "5",
+        "object_repr": "Amazon CEO",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2020-06-03T18:39:14.093Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "6",
+        "object_repr": "LinkedIn CEO",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2020-06-03T18:41:13.684Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "7",
+        "object_repr": "Multi talented guy",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2020-06-03T18:49:52.913Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "8",
+        "object_repr": "Snap chat CEO",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2020-06-04T14:18:41.627Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "8",
+        "object_repr": "Snap chat CEO guy",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2020-06-04T14:23:12.929Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "userdetailapp",
+            "project"
+        ],
+        "object_id": "9",
+        "object_repr": "Twitter CEO",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2020-06-05T06:15:39.278Z",
+        "user": [
+            "jega"
+        ],
+        "content_type": [
+            "consumer",
+            "consumerprofile"
+        ],
+        "object_id": "1",
+        "object_repr": "jega",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+}
+]
